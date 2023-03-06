@@ -1,3 +1,6 @@
 puntoverde/__pycache__
+escuela/__pycache__
 escuela/migrations
+producto/__pycache__
+producto/migrations
 db.sqlite3
